@@ -1,5 +1,3 @@
-
-#!/bin/bash
+echo "#!/bin/bash"
 echo "first current working directory"
-pwd
 
