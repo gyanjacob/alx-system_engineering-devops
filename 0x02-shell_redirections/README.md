@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "A script to print Hello World"
+echo "shell-0x0 redirections"
